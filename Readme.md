@@ -4,10 +4,6 @@ email: chipmunk03330@gmail.com
 
 :sunny: 안녕하세요!
 
-프론트엔드 웹 개발자를 목표로 하고있는 정진욱입니다.
-
-부족한 점이 많지만 배움의 자세로 모든 일에 열심히 임하겠습니다!
-
 <hr>
 
 <h2>Stack & Language</h2>
